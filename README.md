@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-My name is Khoa Pham<br>Study Computer Science at Monash University.
+My name is <b>Khoa Pham</b>I study Computer Science at Monash University.
 
 
 ## 🌐 Socials:
