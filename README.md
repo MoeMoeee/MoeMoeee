@@ -5,7 +5,7 @@ My name is <b>Khoa Pham</b> <br/>I study Computer Science at <b>Monash Universit
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khoa-pham2002/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-pham2002/) 
 
 # 💻 Tech Stack:
 
