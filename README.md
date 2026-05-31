@@ -1,8 +1,5 @@
 
 
-# About Me:
-My name is <b>Khoa Pham</b> <br/>I study Computer Science at <b>Monash University</b>.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-pham2002/) 
